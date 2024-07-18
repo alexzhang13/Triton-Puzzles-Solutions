@@ -3,6 +3,9 @@ My own personal solutions to the [Triton Puzzles](https://github.com/srush/Trito
 
 I also found the CUDA MODE Discord helpful: https://discord.gg/cudamode #triton-puzzles
 
-![image](https://github.com/srush/Triton-Puzzles/assets/35882/3e18a47d-1311-43d0-a025-ed1f593f919e)
-
-
+<p align="center">
+  <img src="jensen-happy.gif"></img>
+  <br>
+  I was working in Colab...
+  <img src="p12_complete.png"></img>
+</p>
